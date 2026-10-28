@@ -19,7 +19,6 @@ We only provide security updates and patches for the active production version o
 If you discover a security issue or vulnerability within our codebase, scripts, or runtime environment, please report it privately:
 
 1. **Private Advisory:** Navigate to the "Security" tab of this repository and select "Report a vulnerability" to open a private draft.
-2. **Alternative Contact:** Email our lead development security contact at: `security@yourdomain.com` (Replace with your actual contact address).
 
 Please include a minimal reproduction script, the impacted assets/scripts, and an evaluation of how the exploit could affect the live game or player environment.
 
